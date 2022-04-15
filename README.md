@@ -1,2 +1,2 @@
 # magic
-sql version control Go
+sql version control
